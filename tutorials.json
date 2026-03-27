@@ -1,5 +1,7 @@
 {
-  "tutorials": {},
-  "updated_at": "2026-01-01 00:00:00",
+  "tutorials": {
+    "p1_detran_mg_suspensao": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranminasprocesso.mp4"
+  },
+  "updated_at": "2026-03-27 01:53:52",
   "version": 1
 }
