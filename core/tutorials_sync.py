@@ -17,7 +17,6 @@ from datetime import datetime
 # URL raw do tutorials.json no seu repositorio GitHub
 # Formato: https://raw.githubusercontent.com/caiiohsantos/edital-system/main/tutorials.json
 GITHUB_TUTORIALS_URL = "https://raw.githubusercontent.com/caiiohsantos/edital-system/master/tutorials.json"
-
 # URL raw do version.json (para auto-update)
 GITHUB_VERSION_URL = "https://raw.githubusercontent.com/caiiohsantos/edital-system/master/version.json"
 # ----------------------------------------------------------------------
