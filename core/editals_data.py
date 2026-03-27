@@ -196,7 +196,7 @@ EDITALS_DATA = {
             "tipo": "Suspensão",
             "edital_url": "https://www.detran.rs.gov.br/",
             "consulta_url": "https://pcsdetran.rs.gov.br/login?redirectUrl=%2Fprocessos-penalidades%3Flista%3Dterceiros",
-            "consulta_url2": "https://pcsdetran.rs.gov.br/login?redirectUrl=%2Fconsulta-infracoes",
+            "consulta_url2": "https://pcsdetran.rs.gov.br/consulta-veiculo",
             "tutorial_url": "",
         },
         {
@@ -269,7 +269,7 @@ EDITALS_DATA = {
             "tipo": "Suspensão",
             "edital_url": "https://www.detran.pr.gov.br/webservices/der/notificacoes",
             "consulta_url": "https://www.detran.pr.gov.br/servicos/consultar-recurso-de-pontuacao-suspensao-cnh",
-            "consulta_url2": "https://www.geproc.pr.gov.br/geproc/ng/pub/processo/multas;route=pub%2Fprocesso%2Fmultas;_publico=true",
+            "consulta_url2": "https://www.detran.pr.gov.br/Pagina/DECLARACAO-DE-RESPONSABILIDADE-E-USO-DE-SERVICO-0",
             "tutorial_url": "",
         },
         {
@@ -278,7 +278,7 @@ EDITALS_DATA = {
             "estado": "PR",
             "tipo": "Multa",
             "edital_url": "https://www.der.pr.gov.br/webservices/der/notificacoes",
-            "consulta_url": "https://www.geproc.pr.gov.br/geproc/ng/pub/processo/multas;route=pub%2Fprocesso%2Fmultas;_publico=true",
+            "consulta_url": "https://www.detran.pr.gov.br/Pagina/DECLARACAO-DE-RESPONSABILIDADE-E-USO-DE-SERVICO-0",
             "consulta_url2": "",
             "tutorial_url": "",
         },

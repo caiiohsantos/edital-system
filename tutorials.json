@@ -1,7 +1,31 @@
 {
   "tutorials": {
-    "p1_detran_mg_suspensao": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranminasprocesso.mp4"
+    "p1_detran_mg_suspensao": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranminasprocesso.mp4",
+    "p1_prf_pequena": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/prfait.mp4",
+    "p1_detran_go_suspensao": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detrangoadm.mp4",
+    "p1_detran_go_placa": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detrangoplaca.mp4",
+    "p1_detran_ro_autuacao": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranro.mp4",
+    "p1_detran_ro_penalidade": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranro.mp4",
+    "p1_detran_ro_cassacao": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranro.mp4",
+    "p1_detran_ro_notif_autuacao": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranro.mp4",
+    "p1_detran_ro_notif_penalidade": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranro.mp4",
+    "p1_detran_ms_diario": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/matogrossodosul.mp4",
+    "p2_der_mg_multas": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/dermg.mp4",
+    "p2_detran_mg_placa": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranmgplaca.mp4",
+    "p2_detran_es_processo": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranesproc.mp4",
+    "p2_detran_es_placa": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranesplaca.mp4",
+    "p2_detran_se": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detransergipe.mp4",
+    "p2_der_df_autuacao": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/derdf.mp4",
+    "p2_der_df_penalidade": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/derdf.mp4",
+    "p2_detran_mt": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranmt.mp4",
+    "p3_detran_rs": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranrs.mp4",
+    "p3_prf_grande": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/prfgrande.mp4",
+    "p3_rioverde_autuacao": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detrangoadm.mp4",
+    "p3_rioverde_penalidade": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detrangoplaca.mp4",
+    "p3_dnit": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/dnit.mp4",
+    "p4_detran_pr": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranparana.mp4",
+    "p4_der_pr": "https://github.com/caiiohsantos/edital-system/releases/download/tutoriais-v1/detranparana.mp4"
   },
-  "updated_at": "2026-03-27 01:57:10",
+  "updated_at": "2026-03-27 04:08:45",
   "version": 1
 }
