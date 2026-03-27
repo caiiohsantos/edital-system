@@ -1,0 +1,30 @@
+# Ambiente Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Builds
+dist/
+build/
+*.spec.bak
+
+# Banco de dados sensivel (usuarios e licencas)
+admin/users.db
+client/client.db
+
+# Licencas geradas
+*.lic
+
+# Videos locais (pesados — ficam no GitHub Releases)
+tutoriais/*.mp4
+tutoriais/*.webm
+tutoriais/*.mov
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
