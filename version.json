@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/SEU_USUARIO/edital-system/releases/download/v1.0.0/EditalSystem_Setup_v1.0.0.exe",
-  "release_notes": "Versao inicial do sistema.",
+  "version": "1.0.1",
+  "download_url": "https://github.com/caiiohsantos/edital-system/releases/download/v1.0.0/EditalSystem_Setup_v1.0.0.exe",
+  "release_notes": "Arrumado URLS.",
   "min_version": "1.0.0"
 }
