@@ -1,0 +1,227 @@
+{
+  "Prefeituras": [
+    {
+      "id": "custom_pref_belo_horizonte",
+      "nome": "Prefeitura de Belo Horizonte",
+      "estado": "MG",
+      "tipo": "Multa",
+      "edital_url": "https://dom-web.pbh.gov.br",
+      "consulta_url": "https://multas.pbh.gov.br/consulta-multa",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_contagem",
+      "nome": "Prefeitura de Contagem",
+      "estado": "MG",
+      "tipo": "Multa",
+      "edital_url": "https://portal.contagem.mg.gov.br/portal/diario-oficial",
+      "consulta_url": "https://protocolo.transcon.contagem.mg.gov.br/transito/aits/consultar",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_ribeirao_das_neves",
+      "nome": "Prefeitura de Ribeirão das Neves",
+      "estado": "MG",
+      "tipo": "Multa",
+      "edital_url": "",
+      "consulta_url": "https://consulta.gctweb.com.br/acesso/250910/consultarinfracoesveiculo",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_uberlandia",
+      "nome": "Prefeitura de Uberlândia",
+      "estado": "MG",
+      "tipo": "Multa",
+      "edital_url": "https://www.uberlandia.mg.gov.br/prefeitura/orgaos-municipais/procuradoria-geral-do-municipio/diario-oficial-uberlandia/",
+      "consulta_url": "https://municipiouberlandia.webgctsistemas.com.br/?id=012801",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_juiz_de_fora",
+      "nome": "Prefeitura de Juiz de Fora",
+      "estado": "MG",
+      "tipo": "Multa",
+      "edital_url": "https://www.pjf.mg.gov.br/e_atos/e_atos.php",
+      "consulta_url": "https://juizdefora.protocoloeletronico.gctweb.com.br/login",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_montes_claros",
+      "nome": "Prefeitura de Montes Claros",
+      "estado": "MG",
+      "tipo": "Multa",
+      "edital_url": "",
+      "consulta_url": "https://radar.serpro.gov.br/main.html#/cidadao",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_divinopolis",
+      "nome": "Prefeitura de Divinopolis",
+      "estado": "MG",
+      "tipo": "Multa",
+      "edital_url": "",
+      "consulta_url": "https://radar.serpro.gov.br/main.html#/cidadao",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_do_rio_de_janeiro",
+      "nome": "Prefeitura do Rio de Janeiro",
+      "estado": "RJ",
+      "tipo": "Multa",
+      "edital_url": "https://doweb.rio.rj.gov.br/buscanova/#/p=1&q=infração%20de%20trânsito",
+      "consulta_url": "https://radar.serpro.gov.br/main.html#/cidadao",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_nova_iguacu",
+      "nome": "Prefeitura de Nova Iguaçu",
+      "estado": "RJ",
+      "tipo": "Multa",
+      "edital_url": "https://doweb.novaiguacu.rj.gov.br/portal/diario-oficial/1/0/0/infração%20de%20trânsito/0/",
+      "consulta_url": "",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_campos_dos_goytacazes",
+      "nome": "Prefeitura de Campos dos Goytacazes",
+      "estado": "RJ",
+      "tipo": "Multa",
+      "edital_url": "https://www.campos.rj.gov.br/diario-oficial.php",
+      "consulta_url": "",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_guarulhos",
+      "nome": "Prefeitura de Guarulhos",
+      "estado": "SP",
+      "tipo": "Multa",
+      "edital_url": "",
+      "consulta_url": "https://www.guarulhos.sp.gov.br/consulta-de-multas-de-transito",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_campinas",
+      "nome": "Prefeitura de Campinas",
+      "estado": "SP",
+      "tipo": "Multa",
+      "edital_url": "https://campinas.sp.gov.br/diario-oficial",
+      "consulta_url": "https://portal.emdec.com.br/multas/",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_sao_bernardo_do_campo",
+      "nome": "Prefeitura de São Bernardo do Campo",
+      "estado": "SP",
+      "tipo": "Multa",
+      "edital_url": "https://saobernardo.sp.gov.br/infracaotransito",
+      "consulta_url": "https://www.saobernardo.sp.gov.br/consultar-debitos",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_santo_andre",
+      "nome": "Prefeitura de Santo André",
+      "estado": "SP",
+      "tipo": "Multa",
+      "edital_url": "",
+      "consulta_url": "https://sindata.net.br/SantoAndre/7057/pesquisa/",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_sorocaba",
+      "nome": "Prefeitura de Sorocaba",
+      "estado": "SP",
+      "tipo": "Multa",
+      "edital_url": "",
+      "consulta_url": "https://www.urbes.com.br/multas/",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_osasco",
+      "nome": "Prefeitura de Osasco",
+      "estado": "SP",
+      "tipo": "Multa",
+      "edital_url": "",
+      "consulta_url": "https://www.portaltransito.com.br/multa/consultar?municipio=6789",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_ribeirao_preto",
+      "nome": "Prefeitura de Ribeirão Preto",
+      "estado": "SP",
+      "tipo": "Multa",
+      "edital_url": "",
+      "consulta_url": "https://www.ribeiraopreto.sp.gov.br/rpmobi/boleto-multa",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_sao_jose_dos_campos",
+      "nome": "Prefeitura de São José dos Campos",
+      "estado": "SP",
+      "tipo": "Multa",
+      "edital_url": "https://diariodomunicipio.sjc.sp.gov.br/buscanova/#/p=1&q=infração%20de%20trânsito",
+      "consulta_url": "https://radar.serpro.gov.br/main.html#/cidadao-interno",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    },
+    {
+      "id": "custom_prefeitura_de_sao_jose_do_rio_preto",
+      "nome": "Prefeitura de São José do Rio Preto",
+      "estado": "SP",
+      "tipo": "Multa",
+      "edital_url": "",
+      "consulta_url": "https://radar.serpro.gov.br/main.html#/cidadao",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    }
+  ],
+  "Prioridade 1": [],
+  "Prioridade 4": [
+    {
+      "id": "custom_antt",
+      "nome": "ANTT",
+      "estado": "BRASIL",
+      "tipo": "Multa",
+      "edital_url": "https://portal.antt.gov.br/multa1",
+      "consulta_url": "https://www.gov.br/antt/pt-br/consulta-multas",
+      "consulta_url2": "",
+      "acesso_url": "",
+      "tutorial_url": ""
+    }
+  ]
+}
